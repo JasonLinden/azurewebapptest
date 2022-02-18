@@ -1,0 +1,9 @@
+D:\POC\dotnet-core\WebApplication1\WebApplication2\bin\WebApplication2.dll.config
+D:\POC\dotnet-core\WebApplication1\WebApplication2\bin\WebApplication2.dll
+D:\POC\dotnet-core\WebApplication1\WebApplication2\bin\WebApplication2.pdb
+D:\POC\dotnet-core\WebApplication1\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\POC\dotnet-core\WebApplication1\WebApplication2\obj\Debug\WebApplication2.csproj.AssemblyReference.cache
+D:\POC\dotnet-core\WebApplication1\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+D:\POC\dotnet-core\WebApplication1\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+D:\POC\dotnet-core\WebApplication1\WebApplication2\obj\Debug\WebApplication2.dll
+D:\POC\dotnet-core\WebApplication1\WebApplication2\obj\Debug\WebApplication2.pdb

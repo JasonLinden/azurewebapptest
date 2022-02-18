@@ -1,0 +1,15 @@
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\sqlapp.exe
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\sqlapp.dll
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\sqlapp.deps.json
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\sqlapp.runtimeconfig.json
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\sqlapp.pdb
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.SqlClient.dll
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\sqlapp.Views.dll
+D:\POC\dotnet-core\WebApplication1\sqlapp\obj\Release\netcoreapp3.1\PubTmp\Out\sqlapp.Views.pdb
